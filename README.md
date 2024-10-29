@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/fake-news-detector.git
+    git clone https://github.com/sohamfcb/fake-news-detector.git
     cd fake-news-detector
     ```
 
